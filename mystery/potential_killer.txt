@@ -1,0 +1,2 @@
+ cat list_of_targets.txt names_potential_owners.txt |sort |uniq -c | grep 2 > potential_killer.txt
+      2 Jeremy Bowers

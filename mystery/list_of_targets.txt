@@ -1,0 +1,26 @@
+from clue2:
+cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History |sort |uniq -c |sed -n -e 's/^ *4 \(.*\)/\1/p'
+
+Aldo Nicolas
+Andrei Masna
+Augustin Lozano
+Brian Boyer
+Dalibor Vidal
+Deron Estanguet
+Didier Munoz
+Emma Wei
+Jacqui Maher
+Jamila Rodhe
+Jeremy Bowers
+Kelly Kulish
+Krystian Pen
+Liangliang Miller
+Marina Murphy
+Mary Tomashova
+Matt Waite
+Mike Bostock
+Monika Hwang
+Nikolaus Milatz
+Sonata Raif
+Stephanie Adlington
+Tamara Cafaro
